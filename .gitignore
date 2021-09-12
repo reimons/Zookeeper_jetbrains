@@ -1,0 +1,180 @@
+# Project exclude paths
+/.gradle/
+/Topics/Boolean and logical operations/Program a Boolean function/out/
+/Topics/Boolean and logical operations/Program a Boolean function/out/production/classes/
+/Topics/Boolean and logical operations/Theory/out/
+/Topics/Boolean and logical operations/Theory/out/production/classes/
+/Topics/Characters/A capital letter or a digit/out/
+/Topics/Characters/A capital letter or a digit/out/production/classes/
+/Topics/Characters/Compare Latin letters/out/
+/Topics/Characters/Compare Latin letters/out/production/classes/
+/Topics/Characters/Comparing numbers and characters/out/
+/Topics/Characters/Comparing numbers and characters/out/production/classes/
+/Topics/Characters/Digits or not/out/
+/Topics/Characters/Digits or not/out/production/classes/
+/Topics/Characters/Previous character/out/
+/Topics/Characters/Previous character/out/production/classes/
+/Topics/Characters/Sequence/out/
+/Topics/Characters/Sequence/out/production/classes/
+/Topics/Characters/Theory/out/
+/Topics/Characters/Theory/out/production/classes/
+/Topics/If expression/Check a number is positive/out/
+/Topics/If expression/Check a number is positive/out/production/classes/
+/Topics/If expression/Healthy sleep/out/
+/Topics/If expression/Healthy sleep/out/production/classes/
+/Topics/If expression/Interval/out/
+/Topics/If expression/Interval/out/production/classes/
+/Topics/If expression/Leap year/out/
+/Topics/If expression/Leap year/out/production/classes/
+/Topics/If expression/Number dividers/out/
+/Topics/If expression/Number dividers/out/production/classes/
+/Topics/If expression/Odd or even/out/
+/Topics/If expression/Odd or even/out/production/classes/
+/Topics/If expression/Positive, Negative or Zero/out/
+/Topics/If expression/Positive, Negative or Zero/out/production/classes/
+/Topics/If expression/Queens/out/
+/Topics/If expression/Queens/out/production/classes/
+/Topics/If expression/The max of three numbers/out/
+/Topics/If expression/The max of three numbers/out/production/classes/
+/Topics/If expression/The max of two numbers without else-branch/out/
+/Topics/If expression/The max of two numbers without else-branch/out/production/classes/
+/Topics/If expression/Theory/out/
+/Topics/If expression/Theory/out/production/classes/
+/Topics/If expression/Triangle/out/
+/Topics/If expression/Triangle/out/production/classes/
+/Topics/Integers in action/Desks/out/
+/Topics/Integers in action/Desks/out/production/classes/
+/Topics/Integers in action/Divide nuts equally between squirrels/out/
+/Topics/Integers in action/Divide nuts equally between squirrels/out/production/classes/
+/Topics/Integers in action/Good rest on vacation/out/
+/Topics/Integers in action/Good rest on vacation/out/production/classes/
+/Topics/Integers in action/How many nuts will be left after division/out/
+/Topics/Integers in action/How many nuts will be left after division/out/production/classes/
+/Topics/Integers in action/Next even number/out/
+/Topics/Integers in action/Next even number/out/production/classes/
+/Topics/Integers in action/Reversing a number/out/
+/Topics/Integers in action/Reversing a number/out/production/classes/
+/Topics/Integers in action/The first digit of a two-digit number/out/
+/Topics/Integers in action/The first digit of a two-digit number/out/production/classes/
+/Topics/Integers in action/The last digit of a number/out/
+/Topics/Integers in action/The last digit of a number/out/production/classes/
+/Topics/Integers in action/The number of tens/out/
+/Topics/Integers in action/The number of tens/out/production/classes/
+/Topics/Integers in action/The sum of digits/out/
+/Topics/Integers in action/The sum of digits/out/production/classes/
+/Topics/Integers in action/Theory/out/
+/Topics/Integers in action/Theory/out/production/classes/
+/Topics/Integers in action/Time difference/out/
+/Topics/Integers in action/Time difference/out/production/classes/
+/Topics/Mutable list/Initializing a list/out/
+/Topics/Mutable list/Initializing a list/out/production/classes/
+/Topics/Mutable list/Initializing a mutable list of characters/out/
+/Topics/Mutable list/Initializing a mutable list of characters/out/production/classes/
+/Topics/Mutable list/Initializing a mutable list of integers/out/
+/Topics/Mutable list/Initializing a mutable list of integers/out/production/classes/
+/Topics/Mutable list/Initializing a mutable list of longs/out/
+/Topics/Mutable list/Initializing a mutable list of longs/out/production/classes/
+/Topics/Mutable list/Swap/out/
+/Topics/Mutable list/Swap/out/production/classes/
+/Topics/Mutable list/Theory/out/
+/Topics/Mutable list/Theory/out/production/classes/
+/Topics/Overview of the basic program/I like Kotlin/out/
+/Topics/Overview of the basic program/I like Kotlin/out/production/classes/
+/Topics/Overview of the basic program/Theory/out/
+/Topics/Overview of the basic program/Theory/out/production/classes/
+/Topics/Overview of the basic program/Your name/out/
+/Topics/Overview of the basic program/Your name/out/production/classes/
+/Topics/Reading data with a readLine/Fix the input/out/
+/Topics/Reading data with a readLine/Fix the input/out/production/classes/
+/Topics/Reading data with a readLine/How to learn the whole Kotlin per one task/out/
+/Topics/Reading data with a readLine/How to learn the whole Kotlin per one task/out/production/classes/
+/Topics/Reading data with a readLine/Read a Double/out/
+/Topics/Reading data with a readLine/Read a Double/out/production/classes/
+/Topics/Reading data with a readLine/Reversed output/out/
+/Topics/Reading data with a readLine/Reversed output/out/production/classes/
+/Topics/Reading data with a readLine/Theory/out/
+/Topics/Reading data with a readLine/Theory/out/production/classes/
+/Topics/Relational operators/Are the numbers different/out/
+/Topics/Relational operators/Are the numbers different/out/production/classes/
+/Topics/Relational operators/Boys in the sport class/out/
+/Topics/Relational operators/Boys in the sport class/out/production/classes/
+/Topics/Relational operators/Check the sum/out/
+/Topics/Relational operators/Check the sum/out/production/classes/
+/Topics/Relational operators/Check the value/out/
+/Topics/Relational operators/Check the value/out/production/classes/
+/Topics/Relational operators/Check the value (1)/out/
+/Topics/Relational operators/Check the value (1)/out/production/classes/
+/Topics/Relational operators/Exactly one parameter is positive/out/
+/Topics/Relational operators/Exactly one parameter is positive/out/production/classes/
+/Topics/Relational operators/Groundhogs at the party/out/
+/Topics/Relational operators/Groundhogs at the party/out/production/classes/
+/Topics/Relational operators/Inbetween/out/
+/Topics/Relational operators/Inbetween/out/production/classes/
+/Topics/Relational operators/Theory/out/
+/Topics/Relational operators/Theory/out/production/classes/
+/Topics/Repeating blocks/Counting positive numbers/out/
+/Topics/Repeating blocks/Counting positive numbers/out/production/classes/
+/Topics/Repeating blocks/Grades/out/
+/Topics/Repeating blocks/Grades/out/production/classes/
+/Topics/Repeating blocks/Maximum element divisible by 4/out/
+/Topics/Repeating blocks/Maximum element divisible by 4/out/production/classes/
+/Topics/Repeating blocks/Print a string exactly ten times/out/
+/Topics/Repeating blocks/Print a string exactly ten times/out/production/classes/
+/Topics/Repeating blocks/Size of parts/out/
+/Topics/Repeating blocks/Size of parts/out/production/classes/
+/Topics/Repeating blocks/Theory/out/
+/Topics/Repeating blocks/Theory/out/production/classes/
+/Topics/Standard input/Read and print/out/
+/Topics/Standard input/Read and print/out/production/classes/
+/Topics/Standard input/Theory/out/
+/Topics/Standard input/Theory/out/production/classes/
+/Topics/String templates/Arithmetic expression/out/
+/Topics/String templates/Arithmetic expression/out/production/classes/
+/Topics/String templates/Date and time formatting/out/
+/Topics/String templates/Date and time formatting/out/production/classes/
+/Topics/String templates/Print two numbers on the same line/out/
+/Topics/String templates/Print two numbers on the same line/out/production/classes/
+/Topics/String templates/Repetitions and templates/out/
+/Topics/String templates/Repetitions and templates/out/production/classes/
+/Topics/String templates/Theory/out/
+/Topics/String templates/Theory/out/production/classes/
+/Topics/The classification of basic types/Max values of integer types/out/
+/Topics/The classification of basic types/Max values of integer types/out/production/classes/
+/Topics/The classification of basic types/Theory/out/
+/Topics/The classification of basic types/Theory/out/production/classes/
+/Topics/Type conversion/Cutting the fraction/out/
+/Topics/Type conversion/Cutting the fraction/out/production/classes/
+/Topics/Type conversion/Theory/out/
+/Topics/Type conversion/Theory/out/production/classes/
+/Topics/Values and variables/Assignments/out/
+/Topics/Values and variables/Assignments/out/production/classes/
+/Topics/Values and variables/Fix declarations/out/
+/Topics/Values and variables/Fix declarations/out/production/classes/
+/Topics/Values and variables/Fix the program/out/
+/Topics/Values and variables/Fix the program/out/production/classes/
+/Topics/Values and variables/Theory/out/
+/Topics/Values and variables/Theory/out/production/classes/
+/Topics/Values and variables/Very Big Number/out/
+/Topics/Values and variables/Very Big Number/out/production/classes/
+/Topics/While loops/Balance checker/out/
+/Topics/While loops/Balance checker/out/production/classes/
+/Topics/While loops/Collatz conjecture/out/
+/Topics/While loops/Collatz conjecture/out/production/classes/
+/Topics/While loops/Squares of natural numbers/out/
+/Topics/While loops/Squares of natural numbers/out/production/classes/
+/Topics/While loops/The first position of the largest element/out/
+/Topics/While loops/The first position of the largest element/out/production/classes/
+/Topics/While loops/The largest element/out/
+/Topics/While loops/The largest element/out/production/classes/
+/Topics/While loops/The length of the sequence/out/
+/Topics/While loops/The length of the sequence/out/production/classes/
+/Topics/While loops/The sequence 1 2 2 3 3 3/out/
+/Topics/While loops/The sequence 1 2 2 3 3 3/out/production/classes/
+/Topics/While loops/The sum of elements/out/
+/Topics/While loops/The sum of elements/out/production/classes/
+/Topics/While loops/Theory/out/
+/Topics/While loops/Theory/out/production/classes/
+/Zookeeper/task/build/
+/Zookeeper/task/out/
+/Zookeeper/task/out/production/classes/
+/Zookeeper/task/out/test/classes/
